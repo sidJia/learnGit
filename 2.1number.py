@@ -16,3 +16,12 @@ temp = 1 +2j
 print(type(temp))
 a = hex(255)
 print(a)
+
+num1 = input("Enter a number: ")
+num2 = input("Enter another number: ")
+result = num1 + num2
+result1 = int(num1) + int(num2)
+result2 = float(num1) + float(num2)
+print(result)
+print(result1)
+print(result2)

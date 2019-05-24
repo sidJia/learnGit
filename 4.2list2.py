@@ -15,3 +15,8 @@ list1.extend(list2)
 list1.sort(reverse=True)
 # print(list1)
 print(list1.index('g'))
+
+lucky_numbers = [2, 5, 6, 11, 20]
+friends = ["Wang", "Zhou", "Xu", "Huang", "Dong"]
+
+print(friends)

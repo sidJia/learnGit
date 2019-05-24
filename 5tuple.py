@@ -24,3 +24,4 @@
 
 tuple1=('h','y','h',5,2,0)
 print(tuple1.index('h'))
+
